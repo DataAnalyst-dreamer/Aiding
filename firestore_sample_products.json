@@ -1,0 +1,209 @@
+[
+  // ─────────────────────────────────────────
+  // 0~3개월 (신생아)
+  // ─────────────────────────────────────────
+  {
+    "productId": "prod_001",
+    "name": "신생아 사계절 속싸개 5종 세트",
+    "brand": "꽃잠",
+    "category": "침구",
+    "minMonth": 0,
+    "maxMonth": 3,
+    "description": "신생아의 모로 반사를 줄여주는 스와들 속싸개 세트입니다. 유기농 면 소재로 피부 자극 없이 사용할 수 있습니다.",
+    "aiDescription": "태어난 지 얼마 안 된 아기에게 속싸개는 필수예요. 엄마 뱃속처럼 포근하게 감싸줘서 모로 반사로 인한 잠투정을 확 줄여준답니다. 꽃잠의 유기농 속싸개는 갓 태어난 아기 피부에도 안심하고 사용할 수 있어요 🌸",
+    "imageUrl": "https://via.placeholder.com/300",
+    "naverUrl": "https://shopping.naver.com",
+    "coupangUrl": "https://www.coupang.com",
+    "price": 38000,
+    "isPremium": false,
+    "clickCount": 0
+  },
+  {
+    "productId": "prod_002",
+    "name": "수유 도넛 쿠션",
+    "brand": "마더케이",
+    "category": "수유용품",
+    "minMonth": 0,
+    "maxMonth": 3,
+    "description": "수유 시 팔과 허리 부담을 줄여주는 U자형 도넛 쿠션입니다. 제왕절개 산모도 편안하게 사용할 수 있도록 설계되었습니다.",
+    "aiDescription": "하루에도 수십 번 반복되는 수유, 자세가 불편하면 엄마 몸이 금방 망가져요. 마더케이 수유 쿠션은 아기를 올려두면 딱 맞는 높이가 나와서 허리와 팔 부담을 확실히 줄여준답니다. 출산 선물로도 최고예요 💝",
+    "imageUrl": "https://via.placeholder.com/300",
+    "naverUrl": "https://shopping.naver.com",
+    "coupangUrl": "https://www.coupang.com",
+    "price": 45000,
+    "isPremium": false,
+    "clickCount": 0
+  },
+  {
+    "productId": "prod_003",
+    "name": "신생아 유리젖병 스타터 세트",
+    "brand": "토미티피",
+    "category": "수유용품",
+    "minMonth": 0,
+    "maxMonth": 3,
+    "description": "환경호르몬 걱정 없는 유리 재질의 신생아용 젖병 세트입니다. 클로즈보어 젖꼭지가 모유수유와 병행하기 적합합니다.",
+    "aiDescription": "신생아 시기에 젖병 선택은 정말 중요해요. 토미티피 유리젖병은 환경호르몬이 없고, 특히 클로즈보어 젖꼭지가 모유와 비슷한 흡입감을 만들어줘서 유두 혼동을 최소화해준답니다. 첫 번째 젖병으로 강력 추천해요 ⭐",
+    "imageUrl": "https://via.placeholder.com/300",
+    "naverUrl": "https://shopping.naver.com",
+    "coupangUrl": "https://www.coupang.com",
+    "price": 68000,
+    "isPremium": true,
+    "clickCount": 0
+  },
+
+  // ─────────────────────────────────────────
+  // 4~6개월
+  // ─────────────────────────────────────────
+  {
+    "productId": "prod_004",
+    "name": "아기 실리콘 치발기 세트",
+    "brand": "도담도담",
+    "category": "완구",
+    "minMonth": 4,
+    "maxMonth": 6,
+    "description": "잇몸이 가려운 시기의 아기를 위한 식품용 실리콘 치발기 세트입니다. 다양한 형태로 구석구석 잇몸을 자극해줍니다.",
+    "aiDescription": "4개월 이후 아기들은 뭐든 입으로 가져가기 시작해요. 이때 안전한 치발기를 쥐어주면 잇몸 가려움도 해소되고 손발 협응력도 발달한답니다. 도담도담 치발기는 국내산 식품용 실리콘이라 안심하고 물려줄 수 있어요 😊",
+    "imageUrl": "https://via.placeholder.com/300",
+    "naverUrl": "https://shopping.naver.com",
+    "coupangUrl": "https://www.coupang.com",
+    "price": 22000,
+    "isPremium": false,
+    "clickCount": 0
+  },
+  {
+    "productId": "prod_005",
+    "name": "이유식 준비 실리콘 식기 세트",
+    "brand": "베이비뵨",
+    "category": "식기",
+    "minMonth": 4,
+    "maxMonth": 6,
+    "description": "이유식을 시작하는 아기를 위한 실리콘 그릇, 스푼, 앞치마 세트입니다. 흡착판이 달려 있어 그릇이 뒤집히지 않습니다.",
+    "aiDescription": "이유식을 시작하는 시기가 됐군요! 베이비뵨 식기 세트는 흡착판이 달린 그릇 덕분에 아기가 뒤집어도 음식이 쏟아지지 않아요. 실리콘 소재라 냄새도 없고 세척도 간편해서 매일 쓰는 이유식 식기로 딱이랍니다 🥄",
+    "imageUrl": "https://via.placeholder.com/300",
+    "naverUrl": "https://shopping.naver.com",
+    "coupangUrl": "https://www.coupang.com",
+    "price": 56000,
+    "isPremium": false,
+    "clickCount": 0
+  },
+  {
+    "productId": "prod_006",
+    "name": "전동 바운서 리클라이너",
+    "brand": "맘스베이비",
+    "category": "완구",
+    "minMonth": 4,
+    "maxMonth": 6,
+    "description": "자동으로 흔들리는 전동 바운서로 아기를 달래주는 육아 필수템입니다. 5단계 진동과 10가지 자장가를 제공합니다.",
+    "aiDescription": "손이 부족한 육아에서 전동 바운서는 가히 '제3의 손'이에요. 자동 진동으로 아기를 달래주는 동안 엄마는 밥도 먹고 쉴 수도 있답니다. 누울 각도 조절도 돼서 수유 후 역류 방지 자세로도 활용할 수 있어요 🍼",
+    "imageUrl": "https://via.placeholder.com/300",
+    "naverUrl": "https://shopping.naver.com",
+    "coupangUrl": "https://www.coupang.com",
+    "price": 189000,
+    "isPremium": true,
+    "clickCount": 0
+  },
+
+  // ─────────────────────────────────────────
+  // 7~12개월
+  // ─────────────────────────────────────────
+  {
+    "productId": "prod_007",
+    "name": "범퍼침대 12종 세트",
+    "brand": "꽃잠",
+    "category": "침구",
+    "minMonth": 7,
+    "maxMonth": 12,
+    "description": "뒤집기와 기기를 시작한 아기의 안전을 위한 패브릭 범퍼침대 풀세트입니다. 유해물질 KC 인증 완료 제품입니다.",
+    "aiDescription": "아기가 뒤집기를 시작하면 침대에서 굴러다니다 모서리에 부딪히는 게 걱정이죠. 꽃잠 범퍼침대는 부드러운 패브릭으로 침대 사방을 감싸서 아기가 안전하게 활동할 수 있게 해줘요. KC 인증 완료로 유해물질 걱정도 없답니다 🛏️",
+    "imageUrl": "https://via.placeholder.com/300",
+    "naverUrl": "https://shopping.naver.com",
+    "coupangUrl": "https://www.coupang.com",
+    "price": 128000,
+    "isPremium": false,
+    "clickCount": 0
+  },
+  {
+    "productId": "prod_008",
+    "name": "아기 보행기 (접이식)",
+    "brand": "페도라",
+    "category": "완구",
+    "minMonth": 7,
+    "maxMonth": 12,
+    "description": "다리 힘을 키워주는 접이식 보행기입니다. 속도 조절 바퀴와 높이 조절 기능으로 아기 성장에 맞게 사용할 수 있습니다.",
+    "aiDescription": "서려는 욕구가 폭발하는 시기예요! 보행기는 아기 스스로 이동하는 즐거움을 주면서 다리 근육 발달도 도와준답니다. 페도라 보행기는 접이식이라 공간이 좁아도 보관이 편하고, 속도 조절 바퀴로 너무 빨리 달리는 것도 방지할 수 있어요 🚶",
+    "imageUrl": "https://via.placeholder.com/300",
+    "naverUrl": "https://shopping.naver.com",
+    "coupangUrl": "https://www.coupang.com",
+    "price": 95000,
+    "isPremium": false,
+    "clickCount": 0
+  },
+  {
+    "productId": "prod_009",
+    "name": "프리미엄 하이체어 (이유식 의자)",
+    "brand": "스토케",
+    "category": "식기",
+    "minMonth": 7,
+    "maxMonth": 12,
+    "description": "성장에 맞춰 조절 가능한 프리미엄 하이체어입니다. 아이가 자라면 일반 의자로 변환되어 평생 사용할 수 있습니다.",
+    "aiDescription": "이유식을 시작하면 아기가 앉아서 먹는 공간이 꼭 필요해요. 스토케 하이체어는 발판, 시트, 등받이가 모두 조절돼서 신생아부터 성인까지 쓸 수 있는 평생 의자예요. 가격이 있지만 오래 쓰면 오히려 더 경제적이랍니다 🪑",
+    "imageUrl": "https://via.placeholder.com/300",
+    "naverUrl": "https://shopping.naver.com",
+    "coupangUrl": "https://www.coupang.com",
+    "price": 420000,
+    "isPremium": true,
+    "clickCount": 0
+  },
+
+  // ─────────────────────────────────────────
+  // 13~24개월 (걸음마기)
+  // ─────────────────────────────────────────
+  {
+    "productId": "prod_010",
+    "name": "유아 목욕 의자 세트",
+    "brand": "리체",
+    "category": "위생용품",
+    "minMonth": 13,
+    "maxMonth": 24,
+    "description": "혼자 앉을 수 있는 아이를 위한 미끄럼 방지 목욕 의자 세트입니다. 욕조 흡착판으로 고정되어 넘어짐을 예방합니다.",
+    "aiDescription": "이 시기 아이 목욕은 혼자 두면 너무 위험해요. 리체 목욕 의자는 욕조에 딱 고정되어 아이가 미끄러질 걱정 없이 안전하게 씻길 수 있어요. 아이도 앉아서 물장난을 즐길 수 있어서 목욕 거부가 줄어든다는 후기가 많답니다 🛁",
+    "imageUrl": "https://via.placeholder.com/300",
+    "naverUrl": "https://shopping.naver.com",
+    "coupangUrl": "https://www.coupang.com",
+    "price": 34000,
+    "isPremium": false,
+    "clickCount": 0
+  },
+  {
+    "productId": "prod_011",
+    "name": "유아 스테인리스 식기 세트",
+    "brand": "아이배냇",
+    "category": "식기",
+    "minMonth": 13,
+    "maxMonth": 24,
+    "description": "스스로 먹기 연습을 시작하는 아이를 위한 스테인리스 식기 세트입니다. 곡선 스푼으로 아이 혼자 쉽게 음식을 떠먹을 수 있습니다.",
+    "aiDescription": "돌이 지나면 아이 스스로 먹어보려는 욕구가 생겨요. 이때 아이 손에 맞는 식기를 쥐어주면 자립심과 소근육 발달에 큰 도움이 된답니다. 아이배냇 스테인리스 세트는 녹도 안 슬고 환경호르몬 걱정 없이 오래오래 쓸 수 있어요 🥄",
+    "imageUrl": "https://via.placeholder.com/300",
+    "naverUrl": "https://shopping.naver.com",
+    "coupangUrl": "https://www.coupang.com",
+    "price": 28000,
+    "isPremium": false,
+    "clickCount": 0
+  },
+  {
+    "productId": "prod_012",
+    "name": "유아 감각 발달 원목 장난감 세트",
+    "brand": "플랜토이즈",
+    "category": "완구",
+    "minMonth": 13,
+    "maxMonth": 24,
+    "description": "천연 원목으로 만든 모양 맞추기, 쌓기 놀이 장난감 세트입니다. 색깔과 모양 인지 발달에 도움을 줍니다.",
+    "aiDescription": "걸음마를 시작한 아이에게는 오감을 자극하는 장난감이 최고예요. 플랜토이즈 원목 세트는 화학 성분 없이 천연 소재로 만들어져 입에 넣어도 안전하고, 색깔·모양·쌓기 놀이를 통해 인지 발달까지 도와줘요. 두고두고 쓰는 명품 장난감이에요 🪀",
+    "imageUrl": "https://via.placeholder.com/300",
+    "naverUrl": "https://shopping.naver.com",
+    "coupangUrl": "https://www.coupang.com",
+    "price": 78000,
+    "isPremium": true,
+    "clickCount": 0
+  }
+]

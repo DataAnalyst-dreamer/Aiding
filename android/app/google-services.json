@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "352576307875",
+    "project_id": "aiding-app",
+    "storage_bucket": "aiding-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352576307875:android:5af2d4f5148fa882727516",
+        "android_client_info": {
+          "package_name": "com.aiding.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352576307875-q68no3qqo79h9ojkfkbk6s3hpvbqdi1f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aiding.app",
+            "certificate_hash": "286b40b7ef8526f3737034bb151d56b739252ad2"
+          }
+        },
+        {
+          "client_id": "352576307875-97sp3eqb8tl2ven2t4suue6j5mtkrohv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSoiFoKdFOIG4SamPe9srGSLLr3N48jt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352576307875-97sp3eqb8tl2ven2t4suue6j5mtkrohv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

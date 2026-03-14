@@ -1,0 +1,60 @@
+name: myapp
+description: "아이딩(Aiding) - 육아용품 AI 추천 앱"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # 아이콘
+  cupertino_icons: ^1.0.8
+
+  # ──────────────────────────────────────
+  # Firebase 관련 패키지
+  # ──────────────────────────────────────
+
+  # Firebase 핵심 (모든 Firebase 기능의 기반, 가장 먼저 초기화됨)
+  firebase_core: ^3.15.2
+
+  # 로그인/회원가입 기능
+  firebase_auth: ^5.3.1
+
+  # 데이터베이스 (제품 정보, 사용자 정보 저장)
+  cloud_firestore: ^5.4.4
+
+  # 사용자 행동 분석 (어떤 기능을 많이 쓰는지 파악)
+  firebase_analytics: ^11.3.3
+
+  # 구글 계정으로 로그인
+  google_sign_in: ^6.2.1
+  provider: ^6.1.5+1
+  google_fonts: ^8.0.2
+  go_router: ^17.1.0
+  firebase_ai: ^2.3.0
+  firebase_vertexai: ^1.8.3
+
+  # ──────────────────────────────────────
+  # Gemini AI 직접 연동
+  # ──────────────────────────────────────
+
+  # Google Gemini API 공식 Dart 패키지
+  google_generative_ai: ^0.4.6
+
+  # .env 파일에서 API 키 로드
+  flutter_dotenv: ^5.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - .env   # API 키 등 환경변수 파일 (git에는 올리지 않음)
